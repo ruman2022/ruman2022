@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="912db9f1-f70a-4a8c-9729-d5858515990a" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="29DfFxeg8RWuswv85h0mTn0817B" />
+  <component name="PropertiesComponent">
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.PostAArticle.userLoggedIn">
+    <configuration name="LoginPage.InvalidEmailAndValidPassword" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RxmgDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SmokeTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="SmokeTest" />
+      <option name="MAIN_CLASS_NAME" value="SmokeTest.LoginPage" />
+      <option name="METHOD_NAME" value="InvalidEmailAndValidPassword" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginPage.ValidEmailAndValidPassword" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RxmgDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SmokeTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="SmokeTest" />
+      <option name="MAIN_CLASS_NAME" value="SmokeTest.LoginPage" />
+      <option name="METHOD_NAME" value="ValidEmailAndValidPassword" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginPage.invalidemailAndPass" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RxmgDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SmokeTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="SmokeTest" />
+      <option name="MAIN_CLASS_NAME" value="SmokeTest.LoginPage" />
+      <option name="METHOD_NAME" value="invalidemailAndPass" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginPage.validEmailAndInvalidPassword" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RxmgDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SmokeTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="SmokeTest" />
+      <option name="MAIN_CLASS_NAME" value="SmokeTest.LoginPage" />
+      <option name="METHOD_NAME" value="validEmailAndInvalidPassword" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PostAArticle.userLoggedIn" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RxmgDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SmokeTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="SmokeTest" />
+      <option name="MAIN_CLASS_NAME" value="SmokeTest.PostAArticle" />
+      <option name="METHOD_NAME" value="userLoggedIn" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.PostAArticle.userLoggedIn" />
+        <item itemvalue="TestNG.LoginPage.ValidEmailAndValidPassword" />
+        <item itemvalue="TestNG.LoginPage.InvalidEmailAndValidPassword" />
+        <item itemvalue="TestNG.LoginPage.validEmailAndInvalidPassword" />
+        <item itemvalue="TestNG.LoginPage.invalidemailAndPass" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="912db9f1-f70a-4a8c-9729-d5858515990a" name="Default Changelist" comment="" />
+      <created>1652652476243</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652652476243</updated>
+    </task>
+    <servers />
+  </component>
+</project>
